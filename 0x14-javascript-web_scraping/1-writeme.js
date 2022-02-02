@@ -10,7 +10,7 @@ function bar (err, data) {
     console.log(err);
   }
 }
-}
+};
 catch (err) {
  console.log(err);
-}
+};
