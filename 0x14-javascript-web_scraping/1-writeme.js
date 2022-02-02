@@ -7,9 +7,10 @@ try {
 
   function bar (err, data) {
     if (err) {
-      console.log(err);
+     console.log(err);
     }
   }
-} catch (err) {
+}
+catch (err) {
   console.log(err);
 }
